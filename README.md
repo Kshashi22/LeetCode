@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kshashi22/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,8 +58,13 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kshashi22/LeetCode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

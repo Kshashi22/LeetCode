@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

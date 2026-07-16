@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Kshashi22/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

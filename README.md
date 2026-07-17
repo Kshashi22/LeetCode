@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |
+| [1667-fix-names-in-a-table](https://github.com/Kshashi22/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Kshashi22/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kshashi22/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kshashi22/LeetCode/tree/master/1873-calculate-special-bonus) |

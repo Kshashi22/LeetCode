@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0141-linked-list-cycle](https://github.com/Kshashi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshashi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -98,4 +101,24 @@
 | [1683-invalid-tweets](https://github.com/Kshashi22/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kshashi22/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kshashi22/LeetCode/tree/master/1873-calculate-special-bonus) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

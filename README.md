@@ -108,6 +108,7 @@
 | [1683-invalid-tweets](https://github.com/Kshashi22/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kshashi22/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kshashi22/LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/Kshashi22/LeetCode/tree/master/1907-count-salary-categories) |
 ## Binary Search
 |  |
 | ------- |

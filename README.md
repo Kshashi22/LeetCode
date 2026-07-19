@@ -28,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshashi22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

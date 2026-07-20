@@ -117,6 +117,7 @@
 | [1527-patients-with-a-condition](https://github.com/Kshashi22/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Kshashi22/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Kshashi22/LeetCode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Kshashi22/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kshashi22/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kshashi22/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Kshashi22/LeetCode/tree/master/1907-count-salary-categories) |

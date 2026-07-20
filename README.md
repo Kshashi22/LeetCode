@@ -111,6 +111,7 @@
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kshashi22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kshashi22/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kshashi22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Kshashi22/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Kshashi22/LeetCode/tree/master/1527-patients-with-a-condition) |

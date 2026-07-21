@@ -109,6 +109,7 @@
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kshashi22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kshashi22/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |

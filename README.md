@@ -125,6 +125,7 @@
 | [0511-game-play-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kshashi22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Kshashi22/LeetCode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/Kshashi22/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kshashi22/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kshashi22/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |

@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshashi22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kshashi22/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -43,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/Kshashi22/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Kshashi22/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |

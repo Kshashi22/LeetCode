@@ -137,6 +137,7 @@
 | [0620-not-boring-movies](https://github.com/Kshashi22/LeetCode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kshashi22/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1321-restaurant-growth](https://github.com/Kshashi22/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Kshashi22/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kshashi22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Kshashi22/LeetCode/tree/master/1484-group-sold-products-by-the-date) |

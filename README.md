@@ -16,6 +16,7 @@
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1732-find-the-highest-altitude](https://github.com/Kshashi22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -183,6 +184,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Kshashi22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |

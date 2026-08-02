@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Kshashi22/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Kshashi22/LeetCode/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/Kshashi22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Kshashi22/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Kshashi22/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |

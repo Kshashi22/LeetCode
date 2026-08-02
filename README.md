@@ -151,6 +151,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/Kshashi22/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Kshashi22/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Kshashi22/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1251-average-selling-price](https://github.com/Kshashi22/LeetCode/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/Kshashi22/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Kshashi22/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Kshashi22/LeetCode/tree/master/1341-movie-rating) |

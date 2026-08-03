@@ -156,6 +156,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kshashi22/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kshashi22/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Kshashi22/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Kshashi22/LeetCode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kshashi22/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |

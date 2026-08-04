@@ -151,6 +151,7 @@
 | [0178-rank-scores](https://github.com/Kshashi22/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Kshashi22/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0511-game-play-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/Kshashi22/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kshashi22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Kshashi22/LeetCode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Kshashi22/LeetCode/tree/master/0585-investments-in-2016) |

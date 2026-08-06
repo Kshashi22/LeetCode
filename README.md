@@ -65,6 +65,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kshashi22/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
 | ------- |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Kshashi22/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kshashi22/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

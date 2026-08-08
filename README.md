@@ -51,6 +51,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kshashi22/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -97,6 +98,7 @@
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |

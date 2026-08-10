@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshashi22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Kshashi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kshashi22/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Kshashi22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kshashi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Kshashi22/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
@@ -144,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kshashi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -296,4 +299,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kshashi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

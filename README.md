@@ -60,6 +60,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kshashi22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kshashi22/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Kshashi22/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
@@ -153,6 +154,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
@@ -343,4 +345,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshashi22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

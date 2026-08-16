@@ -34,6 +34,7 @@
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Kshashi22/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshashi22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshashi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -89,6 +90,7 @@
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshashi22/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kshashi22/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -263,6 +265,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -284,6 +287,7 @@
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
@@ -293,6 +297,7 @@
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -335,10 +340,12 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 ## Manacher
 |  |
 | ------- |
@@ -359,4 +366,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

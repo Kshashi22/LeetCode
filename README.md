@@ -29,6 +29,7 @@
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Kshashi22/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Kshashi22/LeetCode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Kshashi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kshashi22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/Kshashi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshashi22/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |

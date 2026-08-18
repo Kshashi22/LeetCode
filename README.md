@@ -58,6 +58,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshashi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kshashi22/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -74,6 +75,7 @@
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kshashi22/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +137,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Kshashi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
+| [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -302,6 +305,7 @@
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

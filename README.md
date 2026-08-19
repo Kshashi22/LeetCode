@@ -35,6 +35,7 @@
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Kshashi22/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Kshashi22/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -60,6 +61,7 @@
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
+| [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshashi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kshashi22/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kshashi22/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -313,6 +316,7 @@
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |

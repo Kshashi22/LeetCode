@@ -232,6 +232,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Kshashi22/LeetCode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Kshashi22/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Kshashi22/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0511-game-play-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/0511-game-play-analysis-i) |

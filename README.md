@@ -235,6 +235,7 @@
 | [0175-combine-two-tables](https://github.com/Kshashi22/LeetCode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Kshashi22/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Kshashi22/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/Kshashi22/LeetCode/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Kshashi22/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Kshashi22/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kshashi22/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |

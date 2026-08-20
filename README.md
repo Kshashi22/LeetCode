@@ -339,10 +339,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -410,4 +412,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

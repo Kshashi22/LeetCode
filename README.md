@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Kshashi22/LeetCode/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -353,12 +355,14 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -449,4 +453,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

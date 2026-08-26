@@ -264,6 +264,7 @@
 | [0577-employee-bonus](https://github.com/Kshashi22/LeetCode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Kshashi22/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kshashi22/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0601-human-traffic-of-stadium](https://github.com/Kshashi22/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kshashi22/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Kshashi22/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Kshashi22/LeetCode/tree/master/0610-triangle-judgement) |

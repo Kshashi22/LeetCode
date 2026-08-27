@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshashi22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kshashi22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Kshashi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshashi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -485,6 +487,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |

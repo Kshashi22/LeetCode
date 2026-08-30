@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Kshashi22/LeetCode/tree/master/0228-summary-ranges) |
+| [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
@@ -180,6 +181,7 @@
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -243,6 +245,7 @@
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
@@ -355,6 +358,7 @@
 | [0011-container-with-most-water](https://github.com/Kshashi22/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |

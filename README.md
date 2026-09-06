@@ -99,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
@@ -260,6 +261,7 @@
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |

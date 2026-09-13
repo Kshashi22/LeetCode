@@ -30,6 +30,7 @@
 | [0228-summary-ranges](https://github.com/Kshashi22/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
@@ -211,6 +212,7 @@
 | [0148-sort-list](https://github.com/Kshashi22/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -399,6 +401,7 @@
 | [0045-jump-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Kshashi22/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |

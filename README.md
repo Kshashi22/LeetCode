@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kshashi22/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
@@ -108,6 +109,7 @@
 | [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Kshashi22/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
@@ -434,6 +437,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
@@ -481,6 +485,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshashi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Kshashi22/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |

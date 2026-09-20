@@ -117,6 +117,7 @@
 | [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/Kshashi22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -208,6 +209,7 @@
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -300,6 +302,7 @@
 | [0118-pascals-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |

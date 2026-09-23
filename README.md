@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kshashi22/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kshashi22/LeetCode/tree/master/0148-sort-list) |
@@ -604,4 +606,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kshashi22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kshashi22/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -94,6 +94,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kshashi22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshashi22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -129,6 +130,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Kshashi22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kshashi22/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshashi22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Kshashi22/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -239,6 +241,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshashi22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +284,7 @@
 | [0739-daily-temperatures](https://github.com/Kshashi22/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kshashi22/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshashi22/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
@@ -491,6 +495,7 @@
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kshashi22/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kshashi22/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -528,6 +533,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshashi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Kshashi22/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |

@@ -20,6 +20,7 @@
 | [0057-insert-interval](https://github.com/Kshashi22/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kshashi22/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kshashi22/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Kshashi22/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Kshashi22/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kshashi22/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -574,6 +576,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshashi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Kshashi22/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Kshashi22/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Kshashi22/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |

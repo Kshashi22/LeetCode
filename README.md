@@ -169,6 +169,7 @@
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Kshashi22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
@@ -337,6 +338,7 @@
 | [0120-triangle](https://github.com/Kshashi22/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshashi22/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
+| [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Kshashi22/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -515,6 +517,7 @@
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kshashi22/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -655,4 +658,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

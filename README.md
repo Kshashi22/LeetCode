@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
@@ -95,6 +96,7 @@
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Kshashi22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshashi22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -167,6 +169,7 @@
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
@@ -644,6 +647,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Kshashi22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kshashi22/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
@@ -666,4 +670,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

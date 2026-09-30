@@ -32,6 +32,7 @@
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Kshashi22/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Kshashi22/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Kshashi22/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
@@ -447,6 +448,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kshashi22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Kshashi22/LeetCode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Kshashi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kshashi22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

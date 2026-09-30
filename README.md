@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/Kshashi22/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Kshashi22/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kshashi22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
@@ -102,6 +103,7 @@
 | [0013-roman-to-integer](https://github.com/Kshashi22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshashi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Kshashi22/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Kshashi22/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -140,6 +142,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kshashi22/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Kshashi22/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kshashi22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kshashi22/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Kshashi22/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0088-merge-sorted-array) |

@@ -41,6 +41,7 @@
 | [0228-summary-ranges](https://github.com/Kshashi22/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Kshashi22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -259,6 +260,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kshashi22/LeetCode/tree/master/0443-string-compression) |
@@ -298,6 +300,7 @@
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kshashi22/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kshashi22/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Kshashi22/LeetCode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kshashi22/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -464,6 +467,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kshashi22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Kshashi22/LeetCode/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kshashi22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Kshashi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -747,4 +751,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

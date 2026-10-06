@@ -80,6 +80,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshashi22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshashi22/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Kshashi22/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshashi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -300,6 +301,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshashi22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kshashi22/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Kshashi22/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshashi22/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
@@ -546,6 +548,7 @@
 | [2029-stone-game-ix](https://github.com/Kshashi22/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kshashi22/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kshashi22/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshashi22/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kshashi22/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -716,6 +719,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshashi22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kshashi22/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |

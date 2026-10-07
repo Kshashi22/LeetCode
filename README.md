@@ -80,6 +80,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshashi22/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshashi22/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Kshashi22/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kshashi22/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshashi22/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -279,6 +280,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Kshashi22/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kshashi22/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kshashi22/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshashi22/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kshashi22/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -323,6 +325,7 @@
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kshashi22/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kshashi22/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshashi22/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -723,6 +726,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshashi22/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kshashi22/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kshashi22/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Kshashi22/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |

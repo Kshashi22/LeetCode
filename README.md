@@ -45,6 +45,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kshashi22/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -404,6 +405,7 @@
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kshashi22/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Kshashi22/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -494,6 +496,7 @@
 | [0069-sqrtx](https://github.com/Kshashi22/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Kshashi22/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kshashi22/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Kshashi22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -781,6 +784,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Tournament Sort
 |  |

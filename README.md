@@ -597,6 +597,7 @@
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kshashi22/LeetCode/tree/master/0207-course-schedule) |
 | [0437-path-sum-iii](https://github.com/Kshashi22/LeetCode/tree/master/0437-path-sum-iii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -608,6 +609,7 @@
 | [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kshashi22/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kshashi22/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -707,6 +709,7 @@
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Kshashi22/LeetCode/tree/master/0437-path-sum-iii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -714,6 +717,7 @@
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/Kshashi22/LeetCode/tree/master/0437-path-sum-iii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
 |  |

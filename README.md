@@ -115,6 +115,7 @@
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Kshashi22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kshashi22/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kshashi22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Kshashi22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Kshashi22/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Kshashi22/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -161,6 +162,7 @@
 | [0067-add-binary](https://github.com/Kshashi22/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Kshashi22/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Kshashi22/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Kshashi22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Kshashi22/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshashi22/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Kshashi22/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kshashi22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshashi22/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshashi22/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

@@ -65,6 +65,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Kshashi22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Kshashi22/LeetCode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Kshashi22/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Kshashi22/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/Kshashi22/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -129,6 +130,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kshashi22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
 | [1096-brace-expansion-ii](https://github.com/Kshashi22/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Kshashi22/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Kshashi22/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kshashi22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshashi22/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |

@@ -51,6 +51,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Kshashi22/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kshashi22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kshashi22/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kshashi22/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kshashi22/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kshashi22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kshashi22/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Kshashi22/LeetCode/tree/master/0763-partition-labels) |
@@ -219,6 +221,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Kshashi22/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kshashi22/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Kshashi22/LeetCode/tree/master/0279-perfect-squares) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kshashi22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Kshashi22/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kshashi22/LeetCode/tree/master/0877-stone-game) |
@@ -641,6 +644,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Kshashi22/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kshashi22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Kshashi22/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Kshashi22/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kshashi22/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -847,4 +851,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kshashi22/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kshashi22/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

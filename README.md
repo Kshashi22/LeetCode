@@ -180,6 +180,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Kshashi22/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kshashi22/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Kshashi22/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Kshashi22/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Kshashi22/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Kshashi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -360,6 +361,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Kshashi22/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Kshashi22/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kshashi22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Kshashi22/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Kshashi22/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kshashi22/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -369,6 +371,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Kshashi22/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshashi22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Kshashi22/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Kshashi22/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Kshashi22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Kshashi22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Kshashi22/LeetCode/tree/master/0682-baseball-game) |

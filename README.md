@@ -22,6 +22,7 @@
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kshashi22/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kshashi22/LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kshashi22/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Kshashi22/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Kshashi22/LeetCode/tree/master/0075-sort-colors) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kshashi22/LeetCode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kshashi22/LeetCode/tree/master/0221-maximal-square) |
@@ -419,6 +421,7 @@
 | [0053-maximum-subarray](https://github.com/Kshashi22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kshashi22/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kshashi22/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kshashi22/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Kshashi22/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Kshashi22/LeetCode/tree/master/0115-distinct-subsequences) |

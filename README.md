@@ -623,6 +623,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kshashi22/LeetCode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kshashi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -636,6 +637,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kshashi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Kshashi22/LeetCode/tree/master/0200-number-of-islands) |
@@ -742,6 +744,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kshashi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -754,6 +757,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kshashi22/LeetCode/tree/master/0199-binary-tree-right-side-view) |

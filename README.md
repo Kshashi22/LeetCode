@@ -448,6 +448,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Kshashi22/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kshashi22/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kshashi22/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Kshashi22/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kshashi22/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Kshashi22/LeetCode/tree/master/1563-stone-game-v) |
@@ -632,6 +633,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kshashi22/LeetCode/tree/master/0437-path-sum-iii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kshashi22/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -753,6 +755,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Kshashi22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kshashi22/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -766,6 +769,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Kshashi22/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kshashi22/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshashi22/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
 |  |
@@ -868,6 +872,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kshashi22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kshashi22/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
